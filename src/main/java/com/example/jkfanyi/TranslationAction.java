@@ -21,7 +21,9 @@ import java.net.URI;
 import java.net.URISyntaxException;
 
 /**
- * Created by loucyin on 2016/3/25.
+ * 博客参考:
+ * 鸿神: https://blog.csdn.net/lmj623565791/article/details/51548272?spm=1001.2014.3001.5502
+ * 该code原出处: https://juejin.cn/post/6844903432466382855
  */
 public class TranslationAction extends AnAction {
 
